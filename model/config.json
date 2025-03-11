@@ -1,0 +1,5 @@
+{
+  "model_type": "custom_ai",
+  "num_layers": 12,
+  "hidden_size": 768
+}
